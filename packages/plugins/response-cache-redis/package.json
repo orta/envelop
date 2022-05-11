@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@envelop/response-cache": "^2.3.2",
-    "ioredis": "^4.27.9"
+    "ioredis": "^5.0.0"
   },
   "peerDependencies": {},
   "buildOptions": {
