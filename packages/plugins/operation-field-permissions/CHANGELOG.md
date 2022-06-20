@@ -1,5 +1,11 @@
 # @envelop/operation-field-permissions
 
+## 3.3.5
+
+### Patch Changes
+
+- 646de1e: remove unused code import statement
+
 ## 3.3.4
 
 ### Patch Changes
